@@ -6,6 +6,8 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
+//testje 
+
 app.listen(port, () => {
 	console.log("SERVER STARTED")
 })
